@@ -6,14 +6,18 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="circular-traversal" />
         <module name="forkAndJoin-workers" />
         <module name="parking-lot" />
+        <module name="remove-next-traversal" />
         <module name="some-refresher-problems" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="circular-traversal" target="1.8" />
       <module name="forkAndJoin-workers" target="1.8" />
       <module name="parking-lot" target="1.8" />
+      <module name="remove-next-traversal" target="1.5" />
       <module name="some-refresher-problems" target="1.8" />
     </bytecodeTargetLevel>
   </component>
