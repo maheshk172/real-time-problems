@@ -1,0 +1,10 @@
+org\refresher\ParkingLot$1.class
+org\refresher\ParkingLotService.class
+org\refresher\utils\PriorityParkingComparator.class
+org\refresher\models\Parking.class
+org\refresher\models\VehicleType.class
+org\refresher\models\Vehicle$1.class
+org\refresher\models\Vehicle.class
+org\refresher\ParkingLot.class
+org\refresher\models\Vehicle$VehicleBuilder.class
+org\refresher\models\Priority.class
